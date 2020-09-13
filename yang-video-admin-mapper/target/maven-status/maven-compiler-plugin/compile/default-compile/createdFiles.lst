@@ -1,0 +1,5 @@
+com\yang\mapper\VideosMapper.class
+com\yang\mapper\UsersMapper.class
+com\yang\mapper\BgmMapper.class
+com\yang\mapper\UsersReportMapperCustom.class
+com\yang\mapper\UsersReportMapper.class
